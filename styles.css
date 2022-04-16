@@ -419,7 +419,7 @@ a {
 
 @media all and (max-width: 700px) {
 	.project__slide {
-		max-width: 50%;
+		max-width: 96%;
 	}
 	.project_tab-container {
 		padding: 0 30px 0 30px;
@@ -427,7 +427,7 @@ a {
 }
 @media all and (min-width: 701px) and (max-width: 1100px) {
 	.project__slide {
-		max-width: 70%;
+		max-width: 80%;
 	}
 	.project_tab-container {
 		padding: 0 50px 0 50px;
@@ -476,6 +476,10 @@ a {
 	margin: 30px 0 0 10px;
 	text-align: center;
 	align-items: center;
+}
+
+.project_links > a > button {
+	width: 200px;
 }
 
 /* Contact */
