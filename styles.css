@@ -479,7 +479,7 @@ a {
 }
 
 .project_links > a > button {
-	width: 200px;
+	width: 200px !important;
 }
 
 /* Contact */
