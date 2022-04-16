@@ -202,7 +202,7 @@ a {
 }
 
 .profile_image {
-	width: 495px;
+	width: 400px;
 	border-radius: 50% 0 50% 50%;
 	justify-content: flex-end;
 	align-items: flex-end;
