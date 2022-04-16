@@ -80,7 +80,7 @@ a:hover {
 
 p {
 	color: var(--color-mediumgrey);
-	font-size: 12px;
+	font-size: 15px;
 }
 @media all and (max-width: 390px) {
 	p {
