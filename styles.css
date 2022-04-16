@@ -71,6 +71,7 @@ br {
 }
 a {
 	color: var(--color-hotpink);
+	font-size: 15px;
 }
 a:hover {
 	color: var(--color-lightpink);
