@@ -123,13 +123,14 @@ b {
 	justify-content: flex-start;
 	align-items: center;
 	width: 100%;
+	height: 100%;
 	margin: 0;
 	padding: 0;
 	color: white;
 }
 /* LOGO */
 .logo {
-	width: 70px;
+	width: 60px;
 	/* margin-top: 5px; */
 	margin-left: 15px;
 	animation-duration: 20s;
@@ -150,6 +151,7 @@ b {
 /* NAVBAR Links */
 .nav__links,
 a {
+	font-size: 15px;
 	color: white;
 	text-decoration: none;
 	margin-top: 5px;
