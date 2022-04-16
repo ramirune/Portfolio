@@ -80,7 +80,7 @@ a:hover {
 
 p {
 	color: var(--color-mediumgrey);
-	font-size: 18px;
+	font-size: 12px;
 }
 @media all and (max-width: 390px) {
 	p {
@@ -100,7 +100,7 @@ h1 {
 
 h2 {
 	color: black;
-	font-size: 25px;
+	font-size: 20px;
 }
 @media all and (max-width: 550px) {
 	h2 {
@@ -189,13 +189,12 @@ a {
 
 .about__container {
 	width: 100%;
-	margin: 30px 0 50px 0;
+	margin: 80px 0 100px 0;
 	padding: 0;
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
 	align-items: center;
-	align-content: stretch;
 }
 
 .profile_image {
@@ -327,7 +326,7 @@ a {
 	grid-row-gap: 20px;
 	grid-column-gap: 5px;
 	margin-top: 25px;
-	margin-bottom: 100px;
+	margin-bottom: 80px;
 }
 
 .skill_logos {
