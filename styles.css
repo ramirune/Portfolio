@@ -80,7 +80,7 @@ a:hover {
 
 p {
 	color: var(--color-mediumgrey);
-	font-size: 18px;
+	font-size: 20px;
 }
 @media all and (max-width: 390px) {
 	p {
@@ -155,7 +155,7 @@ b {
 }
 .nav__links,
 a {
-	font-size: 15px;
+	font-size: 15px !important;
 	color: white;
 	text-decoration: none;
 	margin-top: 5px;
