@@ -230,7 +230,7 @@ a {
 	justify-content: center;
 	align-items: center;
 	flex-direction: row;
-	margin-top: 20px;
+	margin-top: 50px;
 }
 
 @media all and (max-width: 450px) {
